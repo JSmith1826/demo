@@ -15,6 +15,6 @@ The analysis aslo shows a corrilation between the launch date of a campaign and 
 There a number of takeaways after looking at the data. First of all successful campaigns in the Unted States had a mean goal of $5,049 while unsuccessful campaigns were asking for much more. The Mean goal of the unsuccessful campaigns, $10,554 is more than double that of those that succeed. This bodes well for our playwrite because her ask, $2000, is withing the inter quartile range and below both the mean and median of similar campaigns that were a success. These figures come from the sheet called "Descriptive Statistics" in the included Excel file.
 
 The playwrite is also interested in the market for musical theater in Great Britian. I compaired the stated goals and the pledged amount for all campaigns in the subcatagory Musicals in Great Britian. The finding are summerized in the chart below.
-![GB Goal and Pledge Chart](/GB Goal and Pledge Chart.png)
+![GB Goal](GB Goal and Pledge Chart.png)
 
 After looking at the data my recomendation to Louise, the playwrite would be keep her budget and goal number where it is. The campaign's goal falls into a range that other similar projects are able to find success in. I would also recomend launching her fundraising campaign in June as that month has the best success rate for similar projects.
