@@ -7,3 +7,8 @@ The purpose of this assignment was to take data available through Kickstarter's 
 The purpose of the analysis was to identify facors in the success and failure of previous campaigns realted to theatrical arts. The first thing I looked at was the success and failure rated of all the campaigns hosted by Kickstarter when broken down by Catagory. The graph below shows that theatre projects are one of the popular types of fundraising campaigns. It also shows that the rate of success of theater campaigns is very good compaired to other catagories with only music and film projects having similar success rates.
 
 ![Parent Category Outcome Chart](C:\Users\Justin\Desktop\Class\Parent Category Outcomes Chart.png)
+----
+The analysis aslo show a corrilation between the launch date of a campaign and it's chances of being successful. The following chart shows that campaigns launched during the summer have a much better chance of sucess than those launched in the colder months
+![Outcome Based on Launch Data Chart]("C:\Users\Justin\Desktop\Class\Outcome Based on Launch Date Chart.png")
+
+
