@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
-This repo is to store files and assignments for MSU's Data Analysis Bootcamp (Spring 2022).
-The first assignment was to manipulate and synthesis data gathered from Kickstarter with an eye towards kickstarter theater projects in the United States and Great Britain.
+
+##The first assignment was to manipulate and synthesis data gathered from Kickstarter with an eye towards kickstarter theater projects in the United States and Great Britain.
 ---
 
 The purpose of this assignment was to take data available through Kickstarter's API and use it to give recommendations to an aspiring playwrite who is interested in using the platform to fund a future projects.
